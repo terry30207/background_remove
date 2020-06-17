@@ -8,3 +8,5 @@
 
 使用方法：  
 python ui.py  
+  
+Base on:https://github.com/ajaichemmanam/simple_bodypix_python
